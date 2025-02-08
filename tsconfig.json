@@ -25,14 +25,5 @@
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/app/Bag", "src/app/product/[id]", "src/components/Filterpanel.js"],
   "exclude": ["node_modules"]
 }
-{
-  "compilerOptions": {
-    "baseUrl": ".",
-    "paths": {
-      "@/*": ["./src/*"]
-    }
-  },
-  "exclude": ["node_modules"]
-}
 
 
